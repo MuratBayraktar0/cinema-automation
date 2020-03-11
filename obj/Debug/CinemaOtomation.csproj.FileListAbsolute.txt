@@ -1,0 +1,12 @@
+C:\Users\Murat\source\repos\CinemaOtomation\CinemaOtomation\bin\Debug\CinemaOtomation.exe.config
+C:\Users\Murat\source\repos\CinemaOtomation\CinemaOtomation\bin\Debug\CinemaOtomation.exe
+C:\Users\Murat\source\repos\CinemaOtomation\CinemaOtomation\bin\Debug\CinemaOtomation.pdb
+C:\Users\Murat\source\repos\CinemaOtomation\CinemaOtomation\obj\Debug\CinemaOtomation.csprojAssemblyReference.cache
+C:\Users\Murat\source\repos\CinemaOtomation\CinemaOtomation\obj\Debug\CinemaOtomation.Form1.resources
+C:\Users\Murat\source\repos\CinemaOtomation\CinemaOtomation\obj\Debug\CinemaOtomation.Properties.Resources.resources
+C:\Users\Murat\source\repos\CinemaOtomation\CinemaOtomation\obj\Debug\CinemaOtomation.csproj.GenerateResource.cache
+C:\Users\Murat\source\repos\CinemaOtomation\CinemaOtomation\obj\Debug\CinemaOtomation.csproj.CoreCompileInputs.cache
+C:\Users\Murat\source\repos\CinemaOtomation\CinemaOtomation\obj\Debug\CinemaOtomation.exe
+C:\Users\Murat\source\repos\CinemaOtomation\CinemaOtomation\obj\Debug\CinemaOtomation.pdb
+C:\Users\Murat\source\repos\CinemaOtomation\CinemaOtomation\obj\Debug\CinemaOtomation.Yönetici.YöneticiMain.resources
+C:\Users\Murat\source\repos\CinemaOtomation\CinemaOtomation\obj\Debug\CinemaOtomation.Personel.PersonelMain.resources
